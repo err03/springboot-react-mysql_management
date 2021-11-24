@@ -63,7 +63,8 @@ Screen 1|Screen 2|
 ## React
 - How to create React ?
   - ```npm install -g create-react-app```
-  - ```npm i -g create-react-app react_startcode```
+  - ```npm i -g create-react-app react_startcode``` or
+    - ```npm init react-app react_startcode```
   
 ```npm install``` : install the package(dependencies) to use
 
