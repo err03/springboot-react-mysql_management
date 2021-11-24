@@ -17,29 +17,8 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 `React`
 `RESTful`
 
-
-# Will Needs
-```npm install axios``` :  use axios to send request data (post, get, and delete)
-
-```npm install antd``` : install the UI Component, [Ant Design of React-Components](https://ant.design/components "Antd design")
-
-```
-<!--lombok-->
-<dependency>
-  <groupId>org.projectlombok</groupId>
-  <artifactId>lombok</artifactId>
-  <version>1.18.20</version>
-</dependency>
-```
-
-# Final View
-Screen 1|Screen 2|
----|---|
-<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc1.png" alt="Screen 1" height="280" width="880">|<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc2.png" alt="Screen 2" height="280" width="880"> |
-
----
 # Guide
-- Download the start code folder, contain `react_startcode` and `springboot_startcode` folders. 
+- Download the start code folder, contains `react_startcode` and `springboot_startcode` folders. 
 - Open your Intellij IDEA to open `spring_startcode` project folder.
 
 # Way to Know 
@@ -70,3 +49,22 @@ Screen 1|Screen 2|
 
 ```npm start``` : to start the react app
 
+--- 
+# Will Needs
+```npm install axios``` :  use axios to send request data (post, get, and delete)
+
+```npm install antd``` : install the UI Component, [Ant Design of React-Components](https://ant.design/components "Antd design")
+
+```
+<!--lombok-->
+<dependency>
+  <groupId>org.projectlombok</groupId>
+  <artifactId>lombok</artifactId>
+  <version>1.18.20</version>
+</dependency>
+```
+
+# Final View
+Screen 1|Screen 2|
+---|---|
+<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc1.png" alt="Screen 1" height="280" width="880">|<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc2.png" alt="Screen 2" height="280" width="880"> |
