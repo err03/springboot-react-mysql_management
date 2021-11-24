@@ -43,7 +43,7 @@ Screen 1|Screen 2|
 - Open your Intellij IDEA to open `spring_startcode` project folder.
 
 # Way to Know 
-
+[Create Spring Boot](#Spring-Boot)
 ## Spring-Boot
 - How to create a spring-boot project?
   1. go to https://start.spring.io/ to create spring-boot project <br>
