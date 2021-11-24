@@ -39,5 +39,5 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 # Final View
 Screen 1|Screen 2|
 ---|---|
-<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc1.png" alt="Screen 1" height="280" width="680">|<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc2.png" alt="Screen 2" height="280" width="680"> |
+<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc1.png" alt="Screen 1" height="280" width="880">|<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc2.png" alt="Screen 2" height="280" width="880"> |
 
