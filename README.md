@@ -17,10 +17,6 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 `React`
 `RESTful`
 
----
-```npm install``` : install the package(dependencies) to use
-
-```npm start``` : to start the react app
 
 # Will Needs
 ```npm install axios``` :  use axios to send request data (post, get, and delete)
@@ -40,4 +36,19 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 Screen 1|Screen 2|
 ---|---|
 <img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc1.png" alt="Screen 1" height="280" width="880">|<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/sc2.png" alt="Screen 2" height="280" width="880"> |
+
+---
+# Guide
+- Download the start code folder, contain `react_startcode` and `springboot_startcode` folders. 
+- Open your Intellij IDEA to open `spring_startcode` project folder.
+
+# Way to Know
+- How to create a spring-boot project?
+  1. go to https://start.spring.io/ to create spring-boot project
+    - ![springinitializr]( "spring")
+  2. use IntelliJ to install plugin
+
+```npm install``` : install the package(dependencies) to use
+
+```npm start``` : to start the react app
 
