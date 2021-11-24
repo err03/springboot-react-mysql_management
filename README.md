@@ -42,7 +42,9 @@ Screen 1|Screen 2|
 - Download the start code folder, contain `react_startcode` and `springboot_startcode` folders. 
 - Open your Intellij IDEA to open `spring_startcode` project folder.
 
-# Way to Know
+# Way to Know 
+
+## Spring-Boot
 - How to create a spring-boot project?
   1. go to https://start.spring.io/ to create spring-boot project <br>
     ![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")
@@ -50,11 +52,17 @@ Screen 1|Screen 2|
  
       |Install the plugin: File->Setting->Plugin , Search "Spring Assistant" |
       |---|
-      |![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")|
+      |![IntelliJ](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/intellij-plugin.png "spring")|
       |New a project, click "Spring Assistant"|
-      |![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")|
+      |![IntelliJ](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/intellij-springboot.png "spring")|
       |Next and Next, Add dependencies (at least one), Next then Finish|
-      |![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")|
+      |![IntelliJ](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/intellij-springboot-1.png "spring")|
+
+## React
+- How to create React ?
+  - ```npm install -g create-react-app```
+  - ```npm i -g create-react-app react_startcode```
+  
 ```npm install``` : install the package(dependencies) to use
 
 ```npm start``` : to start the react app
