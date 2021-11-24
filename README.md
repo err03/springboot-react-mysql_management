@@ -44,10 +44,17 @@ Screen 1|Screen 2|
 
 # Way to Know
 - How to create a spring-boot project?
-  1. go to https://start.spring.io/ to create spring-boot project
-    - ![springinitializr]( "spring")
+  1. go to https://start.spring.io/ to create spring-boot project <br>
+    ![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")
   2. use IntelliJ to install plugin
-
+ 
+      |Install the plugin: File->Setting->Plugin , Search "Spring Assistant" |
+      |---|
+      |![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")|
+      |New a project, click "Spring Assistant"|
+      |![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")|
+      |Next and Next, Add dependencies (at least one), Next then Finish|
+      |![springinitializr](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/springinitializr.png "spring")|
 ```npm install``` : install the package(dependencies) to use
 
 ```npm start``` : to start the react app
