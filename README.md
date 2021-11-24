@@ -44,6 +44,8 @@ Screen 1|Screen 2|
 
 # Way to Know 
 [Create Spring Boot](#Spring-Boot)
+[Create React](#React)
+
 ## Spring-Boot
 - How to create a spring-boot project?
   1. go to https://start.spring.io/ to create spring-boot project <br>
