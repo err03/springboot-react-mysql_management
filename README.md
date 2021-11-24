@@ -43,8 +43,8 @@ Screen 1|Screen 2|
 - Open your Intellij IDEA to open `spring_startcode` project folder.
 
 # Way to Know 
-[Create Spring Boot](#Spring-Boot)
-[Create React](#React)
+- [Create Spring Boot](#Spring-Boot) <br>
+- [Create React](#React)
 
 ## Spring-Boot
 - How to create a spring-boot project?
