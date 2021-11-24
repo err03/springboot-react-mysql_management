@@ -1,6 +1,12 @@
 # A Simple Front-Backend Backstage Management System
 A simple back-end management system, with React as the front end, Spring-Boot as the back end, and Mysql as the database.
 
+### Language(s) Will Touches:
+`JAVA`
+`mysql`
+`React`
+`RESTful`
+
 ## Required:
 - React Framework
 - [IntelliJ IDEA Download](https://www.jetbrains.com/idea/download/#section=windows) : "Community" version is fine.
@@ -10,12 +16,6 @@ A simple back-end management system, with React as the front end, Spring-Boot as
   |![Demo](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/source_sql_demo.png "Source Demo")|
   |select * from student;|
   |<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/select_fromStudent.png" alt="select student">|
-
-### Language(s) Will Touches:
-`JAVA`
-`mysql`
-`React`
-`RESTful`
 
 # Guide
 - Download the start code folder, contains `react_startcode` and `springboot_startcode` folders. 
