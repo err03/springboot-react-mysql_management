@@ -4,7 +4,8 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 ## Required:
 - React Framework
 - [IntelliJ IDEA Download](https://www.jetbrains.com/idea/download/#section=windows) : "Community" version is fine.
-- MySql
+- MySql && source the 'react_demo.sql' into your mysql database
+  - 
 
 ### Language(s) Will Touches:
 `JAVA`
