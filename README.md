@@ -52,7 +52,7 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 # Will Needs
 ```npm install axios``` :  use axios to send request data (post, get, and delete)
 
-```npm install antd``` : install the UI Component, [Ant Design of React-Components](https://ant.design/components "Antd design")
+```npm install antd``` : install the UI Component, [Ant Design of React-Components](https://ant.design/components/overview/ "Antd design")
 
 ```
 <!--lombok-->
