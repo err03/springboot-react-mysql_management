@@ -18,8 +18,6 @@ A simple back-end management system, with React as the front end, Spring-Boot as
   |<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/select_fromStudent.png" alt="select student">|
 
 # Guide
-- Download or clone, `final_code` contains `react_startcode` and `springboot_startcode` folders. 
-- Open your Intellij IDEA to open `springboot_startcode` project folder.
 - If want to run `final_code/react_startcode/`, don't forgot ```npm install``` under `/react_startcode/`.
 
 # Way to Know 
