@@ -18,7 +18,7 @@ A simple back-end management system, with React as the front end, Spring-Boot as
   |<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/select_fromStudent.png" alt="select student">|
 
 # First
-- Don't forgot ```npm install``` under `/react_startcode/` folder.
+- Don't forget ```npm install``` under `/react_startcode/` folder.
 
 # Way to Know 
 - [Create Spring Boot](#Spring-Boot) <br>
