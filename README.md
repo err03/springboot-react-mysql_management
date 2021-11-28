@@ -8,18 +8,17 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 `RESTful`
 
 ## Required:
-- React Framework
+- React
 - [IntelliJ IDEA Download](https://www.jetbrains.com/idea/download/#section=windows) : "Community" version is fine.
-- MySql and source the 'react_demo.sql' into your mysql database
+- MySql and source the `react_demo.sql` into your mysql database
   |Demo (Like this)|
   |---|
   |![Demo](https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/source_sql_demo.png "Source Demo")|
   |select * from student;|
   |<img src="https://github.com/err03/springboot-react-mysql_management/blob/main/imgToShow/select_fromStudent.png" alt="select student">|
 
-# Guide
-- Download the start code folder, contains `react_startcode` and `springboot_startcode` folders. 
-- Open your Intellij IDEA to open `spring_startcode` project folder.
+# First
+- Don't forget ```npm install``` under `/react_startcode/` folder.
 
 # Way to Know 
 - [Create Spring Boot](#Spring-Boot) <br>
@@ -53,7 +52,7 @@ A simple back-end management system, with React as the front end, Spring-Boot as
 # Will Needs
 ```npm install axios``` :  use axios to send request data (post, get, and delete)
 
-```npm install antd``` : install the UI Component, [Ant Design of React-Components](https://ant.design/components "Antd design")
+```npm install antd``` : install the UI Component, [Ant Design of React-Components](https://ant.design/components/overview/ "Antd design")
 
 ```
 <!--lombok-->
